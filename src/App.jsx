@@ -1,5 +1,5 @@
 import './App.css'
-import Header from './components/header'
+import Header from './components/Header'
 import Category from './components/category'
 import TopRestaurant from './components/TopRestaurant'
 import OnlineDeliver from './components/OnlineDelivery'
